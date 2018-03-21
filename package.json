@@ -1,0 +1,22 @@
+{
+  "name": "restrek-sandbox-project",
+  "version": "0.0.1",
+  "description": "A simple node.js project to test the project generated with restrek-ini",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "George Suntres",
+  "license": "GPLv3",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gsuntres/restrek-test-init-project.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cookie": "^0.3.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.0",
+    "express-session": "^1.13.0"
+  }
+}
